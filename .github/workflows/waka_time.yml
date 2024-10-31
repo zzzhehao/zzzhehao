@@ -14,11 +14,12 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
-          SECTION_NAME: waka_time
+          SECTION_NAME: wakatime
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TIME_RANGE: all_time
           LANG_COUNT: 8
           STOP_AT_OTHER: false
           SHOW_MASKED_TIME: true
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          # IGNORED_LANGUAGES: YAML JSON TOML # optional
           SHOW_TOTAL: true # optional

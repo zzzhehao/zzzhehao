@@ -39,9 +39,9 @@ Sunday                   45 commits          ███░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka_time-->
+<!--START_SECTION:wakatime-->
 
-<!--END_SECTION:waka_time-->
+<!--END_SECTION:wakatime-->
 
 ## Support me
 
