@@ -15,44 +15,28 @@ Please check out my passions and skills at [zzzhehao.github.io](https://zzzhehao
 Since 31. Oct 2024
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2018%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                52 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-🌆 Daytime                100 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-🌃 Evening                170 commits         ████████████░░░░░░░░░░░░░   48.57 % 
-🌙 Night                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+🌞 Morning                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+🌆 Daytime                100 commits         ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+🌃 Evening                170 commits         ████████████░░░░░░░░░░░░░   48.30 % 
+🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Tuesday                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Wednesday                54 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Thursday                 71 commits          █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Friday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Saturday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Sunday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Tuesday                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Wednesday                54 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Thursday                 71 commits          █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Friday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Saturday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Sunday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Python                   4 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.85 % 
-Quarto                   2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-YAML                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Markdown                 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-```
-
-
- Last Updated on 01/11/2024 01:16:34 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakatime-->
