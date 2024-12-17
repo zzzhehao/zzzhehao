@@ -5,6 +5,14 @@ I am a M.Sc. Biology Student at University of Hamburg. I use `.R`, `.py`, and `.
 
 Please check out my passions and skills at [zzzhehao.github.io](https://zzzhehao.github.io/)
 
+## Random Project
+
+M42 (Orion Nebula) - Dirty Processed, total exposure time 15 min.
+
+<div>
+<img src="assets/images/m42_all_frame_cropped.png" height="400px">
+</div>
+
 ## Code stats
 
 ### Git stats
