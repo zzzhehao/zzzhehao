@@ -15,10 +15,6 @@ Check out my passions and skills at [zzzhehao.github.io](https://zzzhehao.github
 <img src="assets/images/M42_20241224_Sequartor_processed.png" height="400px">
 </div>
 
-## Code stats
-
-![Top Langs](https://github-readme-stats-theta-nine-49.vercel.app/api/top-langs/?username=zzzhehao&layout=compact)
-
 ## Support me
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/huzhehaos)
