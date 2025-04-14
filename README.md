@@ -1,15 +1,20 @@
 
 # 🦑 Hi!
 
-I am a M.Sc. Biology Student at University of Hamburg. I use coding power to assist my work in my professions. 
+I am a M.Sc. Biology Student at University of Hamburg. I code for exact four reasons:
 
-I do cool stuff and nerd stuff with `R`. 
+1. I am lazy. Repetitive work is pure agony.
+2. I don't trust some people, so I write my code myself.
+3. I don't trust myself, so I let code do stuff for me.
+4. I am procrastinating.
+
+I mainly use `R` but I will do what I have to do if it doesn't behave. 
 
 Check out my passions and skills at [zzzhehao.github.io](https://zzzhehao.github.io/)
 
 ## Random Project
 
-**M42 (Orion Nebula)** - Used processing power to compensate low SNR acquisition since I did not use EQ mount to track object. Stacked from 2000 frames per 0.5 s exposure for total 16 minutes exposure time. This is the best I can get before blowing up my storage and processor.
+**M42 (Orion Nebula)** - Used processing power to compensate low SNR acquisition since I don't have EQ mount to track object. Stacked from 2000 frames per 0.5 s exposure for total 16 minutes exposure time. This is the best I can get before blowing up my storage and processor.
 
 <div>
 <img src="assets/images/M42_20241224_Sequartor_processed.png" height="400px">
