@@ -1,12 +1,13 @@
 
 # 🦑 Hi!
 
-I am a M.Sc. Biology Student at University of Hamburg. I code for exact four reasons:
+I am a M.Sc. Biology Student at University of Hamburg. I code for exact five reasons:
 
 1. I am lazy. Repetitive work is pure agony.
-2. I don't trust some people, so I write my code myself.
-3. I don't trust myself, so I let code do stuff for me.
+2. I don't trust myself, so I let code do stuff for me.
+3. I have some weird ideas.
 4. I am procrastinating.
+5. Reproducibility. Science should be rigorous and traceable.
 
 I mainly use `R` but I will do what I have to do if it doesn't behave. 
 
